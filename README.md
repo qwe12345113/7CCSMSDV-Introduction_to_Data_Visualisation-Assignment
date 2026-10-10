@@ -4,7 +4,7 @@ An interactive, browser-based visualisation project exploring historical Olympic
 
 The website brings multiple charts together on a homepage. Users can open individual visualisations and interactively filter countries, editions, seasons, and performance measures.
 
-My assignment homepage. [here]([https://qwe12345113.github.io/visualization_homepage/](https://qwe12345113.github.io/7CCSMSDV-Introduction_to_Data_Visualisation-Assignment/))
+You can explore the interactive visualisations on my assignment homepage [here](https://qwe12345113.github.io/7CCSMSDV-Introduction_to_Data_Visualisation-Assignment/).
 
 ## Project objectives
 
